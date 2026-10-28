@@ -72,5 +72,12 @@ An interactive Excel dashboard built from a public dataset as part of a timed, 3
 | `Formulas` | Lookups and calculated columns |
 | `Dashboard` | Final interactive dashboard |
 
-> Update the sheet names above to match your workbook.
+---
+## 🎬 Project Demonstration
+  <a href="">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
+  </a>
+</p>
+
+---
 
